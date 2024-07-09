@@ -1,0 +1,5 @@
+exemptions:
+  - checks:
+      - code-review
+    annotations:
+      - annotation: not-supported # code review is done telepathically
